@@ -4,5 +4,5 @@ This script uses sslstrip2 and dns2proxy to bypass HSTS when using MITM attack.
 
 # Installation
 
-chmod +x bypass-hsts
+chmod +x bypass-hsts\n
 ./bypass-hsts
